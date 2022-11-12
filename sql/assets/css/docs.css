@@ -214,8 +214,11 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   bottom: 0;
   left: 0;
-  background: #006DCC;  
+  background: #e42a2a;  
 }
+ .container-narrow{
+  margin-left: 0;
+ }
 
 /* Masthead (docs home)
 ------------------------- */
