@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[6088],{6047:o=>{o.exports=JSON.parse('{"permalink":"/tutorials/xaddons/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

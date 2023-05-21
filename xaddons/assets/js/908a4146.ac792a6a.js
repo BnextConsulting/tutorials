@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[1679],{645:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/tutorials/xaddons/blog/tags/hello","allTagsPath":"/tutorials/xaddons/blog/tags","count":2}')}}]);
