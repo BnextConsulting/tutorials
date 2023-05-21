@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[2340],{5263:e=>{e.exports=JSON.parse('{"title":"CRM(s)","slug":"/category/crms","permalink":"/xaddons/docs/category/crms","navigation":{"previous":{"title":"b-Agile","permalink":"/xaddons/docs/logistica/b-Agile"},"next":{"title":"b-Linked","permalink":"/xaddons/docs/crm/b-linked"}}}')}}]);
