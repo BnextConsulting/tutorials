@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[3439],{2775:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/https://bnextconsulting.github.io/xaddons/blog/tags/docusaurus","allTagsPath":"/https://bnextconsulting.github.io/xaddons/blog/tags","count":4}')}}]);

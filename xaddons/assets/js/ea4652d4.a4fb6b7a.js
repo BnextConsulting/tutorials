@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[4437],{258:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/https://bnextconsulting.github.io/xaddons/blog/tags/hello","allTagsPath":"/https://bnextconsulting.github.io/xaddons/blog/tags","count":2}')}}]);

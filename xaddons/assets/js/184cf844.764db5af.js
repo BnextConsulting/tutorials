@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[2093],{5129:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/https://bnextconsulting.github.io/xaddons/blog/tags/facebook","allTagsPath":"/https://bnextconsulting.github.io/xaddons/blog/tags","count":1}')}}]);
