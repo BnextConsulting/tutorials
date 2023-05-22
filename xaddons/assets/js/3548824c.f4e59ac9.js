@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[8658],{4081:o=>{o.exports=JSON.parse('{"title":"Produ\xe7\xe3o","slug":"/category/produ\xe7\xe3o","permalink":"/docs/category/produ\xe7\xe3o","navigation":{"previous":{"title":"Add-On(s)","permalink":"/docs/intro"},"next":{"title":"X-PROD","permalink":"/docs/producao/x-prod"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[3640],{3183:e=>{e.exports=JSON.parse('{"title":"Logistica","slug":"/category/logistica","permalink":"/docs/category/logistica","navigation":{"previous":{"title":"X-COLLECTOR","permalink":"/docs/producao/x-collector"},"next":{"title":"b-Agile","permalink":"/docs/logistica/b-Agile"}}}')}}]);
