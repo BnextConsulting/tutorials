@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkx_add_ons=self.webpackChunkx_add_ons||[]).push([[181],{6526:e=>{e.exports=JSON.parse('{"title":"Verticais","slug":"/category/verticais","permalink":"/docs/category/verticais","navigation":{"previous":{"title":"InfraSpeak","permalink":"/docs/apis/InfraSpeak"},"next":{"title":"b-Linked","permalink":"/docs/verticais/b-linked"}}}')}}]);
